@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+    }
+    form {
+      display: inline-block;
+      text-align: left;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    .form-group label {
+      margin-left: 5px;
+    }
+    #existing {
+      display: none;
+      margin-top: 20px;
+    }
